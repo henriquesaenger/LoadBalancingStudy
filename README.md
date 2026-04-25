@@ -147,7 +147,5 @@ A interface gráfica foi construída com Streamlit e permite:
 - comparar métricas entre algoritmos;
 - visualizar distribuição por servidor e por perfil de carga.
 
-## Como Executar
-
-Entre na raiz do projeto:
-PYTHONPATH=src python -m load_balancing_study.ui.launcher
+## Como Visualizar
+https://loadbalancingstudy-vcvibkcxhzecvmh2eiv4pr.streamlit.app
